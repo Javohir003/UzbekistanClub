@@ -9,6 +9,7 @@ function App() {
   return (
     <>
         <h1>Assalomu alaykum</h1>
+          <h1>Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum Assalomu alaykum </h1>
     </>
   )
 }
